@@ -4492,15 +4492,15 @@
     "@typescript-eslint/types" "4.30.0"
     eslint-visitor-keys "^2.0.0"
 
+"@uniswap/default-token-list@^11.10.0":
+  version "11.10.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-11.10.0.tgz#3f04cdb4c318f170df21715e7cf5e2e4ab20fda8"
+  integrity sha512-WUxS3rRbmxpXwACx30TSCwoYKrrtRuXGgVrMIPnDLzjfsITrAW1g9131CNxeFJzSnLj0THiYBRRwJoW1r8UkFQ==
+
 "@uniswap/default-token-list@^2.0.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-2.2.0.tgz#d85a5c2520f57f4920bd989dfc9f01e1b701a567"
   integrity sha512-vFPWoGzDjHP4i2l7yLaober/lZMmzOZXXirVF8XNyfNzRxgmYCWKO6SzKtfEUwxpd3/KUebgdK55II4Mnak62A==
-
-"@uniswap/default-token-list@^3.0.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-3.2.0.tgz#2a9c381dabf0062ef234cd4cca33aa156e5e3e45"
-  integrity sha512-3wqLMiNZT6WrvSwZL6KwnPKNH5/MAS0agvu/KgUbYs5a+eKURSfYpWLbAGA4yJPdqJLipQYXrQG2xdtXjn9WCA==
 
 "@uniswap/governance@^1.0.2":
   version "1.0.2"
